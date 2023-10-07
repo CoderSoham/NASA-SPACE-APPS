@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nasa-space-apps-7",
+  "private_key_id": "006dee006e87138cb220379e55bf5185ed53602e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4v/lHZ5sFdW3O\ntadJ9omf97yJaTQQJ8dIDBXGLXKATMGUX+iThPT7vkcKDkc7zxB8OMLAU1V7YHyf\n/k0+smTmMO1Gh/evLKsoiF/T4O1uzzUQhk3REdH1zaEKHdj0bPjijxEHbbBHCRYp\npEFFHPKwJCsJ/4KPSXeJ704lpcnHi4HcQfRD4FVFhWlkG3kSKzSI33O+CmyQczfX\nQClIVZELhRF2uHYs0g1M2qfidojXGhFvw0u+EesUYhT9C3PrCWAGKHD2cCnuhmQi\nIjsvB9J/3EaxUYF1302e5Ww+35OFaekKm+sYiJWJ0Yvec3T/vGWWHcygqwibHw1U\nxTGW0ZAlAgMBAAECggEAILT5ymqc3udGYJc3rcgr3qpS0ifSC/8i0E41Z5+BmxWb\nmqstBzq9TTkHJhBXi47RnhBFaBuIsV4oSgHRBoW6B6eHRhqJnpVDmtojzuSN3DVq\nMUn5ikcDmubDuQEGOOV23VMTInPIhpbk+cvGs1fX3heVGADIShopQ73eIZubYIw0\nE3rOwne98bnfe9n3sEIZ0Lg275ETfuw2Dehg/MUXBUb4UWCMK7ohqH+S1PdrhzAK\nyDhccP2aUNsYMK2M332wkx3rkXVoOSYtWhrcGnVTDMrehW8HCLWT3yeW7H6Czvau\nXiTtz1KSAo48bwsR/M6PHNhmpKL9StXQZBGqL/xo0QKBgQD6jUmxekxwDQKDgdn3\nLv3DDnzOSK8WsYIzZaZlb0dFWJgyanxXDcUMuDLsN709J/9t5rUOnNi48mFkdngn\nQKKb2dlE079GExXk5G0SLmM97nICWc8wPbNzax7gS6MkpLieQvsyKOv1H7GlJz+D\n0Mnzq0fl3hJpAwQx+yAuHB4HEQKBgQC8xGUjqiQZ4PquumnlWZvdR2/0Ev9my2Sj\nBonrXMkr8fyB7VpPffdl4HV2YgVH8RCcb4/uc0ws/LW332tHTZGCeWdEurH0yPqg\noTWONMnyW16TqF6Zy8VCxGY/x++A4KYNypVdmWQlDFESlzKvCqvzOVjPurMaREMk\nV72CwZC/1QKBgAEczX33QA2jUSaKVhBt6fyKvO0hj313Tk+yHNoIc3WQXiSjKmgs\njHpw+vDnknSKD+1J//XPpnqzwND0YbYy6EXu4rMWiZvjC87XYNCa2h/1RhZSlcPu\nEjTp/dobG99Wx+cT/w+K9PlCqcRE91g7fhoR4aDYqpZCyCr8pXju8QcxAoGATeOz\n3+16i/sbNTHSNEKvX7T0av/TxvSyB9rQ2f8lOy7UhEAN/bL6fF0L2tdDWpYLxqD6\nAOguTHnR+ZcEyx0kp3O0utVWTK0JTXJ3iMAbfBdbhQ36Sveb45rqnfK/zqvjmNk4\nnLCIdAkLAuLElRmQLgJBtSVSdcoo8jwKBIQeWCkCgYEA1aNbUG052BgyJvFWq1Mw\nxmyaqYzMnjcSaTb5WqChO8RPIA96UaYAwAdkdXwfdTJt12X9PzTo25foedYIDfCn\nVgEdth1CnxpqHSW96pPCUr2nf26G8iXpjyoLT424VCgbj+/GJ4uA5zXA78NcjRQN\n5UQpTz9fec/EMf8XSvWNKX0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-posn7@nasa-space-apps-7.iam.gserviceaccount.com",
+  "client_id": "113771009880509188395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-posn7%40nasa-space-apps-7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
